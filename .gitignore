@@ -4,3 +4,4 @@ target
 /Cargo.lock
 /wincolor/Cargo.lock
 /.idea
+process-repo.log
